@@ -1,4 +1,4 @@
-package com.example.oop;
+package com.example.oop.encapsulation;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;

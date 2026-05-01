@@ -1,5 +1,7 @@
 package com.example.oop;
 
+import com.example.oop.inheritance.Vehicle;
+
 public class Car extends Vehicle {
     public void displayInfo(){
 //        String b = getBrand();

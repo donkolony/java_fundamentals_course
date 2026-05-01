@@ -13,7 +13,7 @@ The engine is starting...
 This is a Generic car.
  */
 
-package com.example.oop;
+package com.example.oop.inheritance;
 
 public class Vehicle {
     private String brand = "Generic";

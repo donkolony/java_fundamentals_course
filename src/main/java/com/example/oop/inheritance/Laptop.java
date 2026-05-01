@@ -12,7 +12,7 @@ Apple iPhone 15
 Dell Laptop
  */
 
-package com.example.oop;
+package com.example.oop.inheritance;
 
 public class Laptop extends Device {
     public Laptop(String brand) {

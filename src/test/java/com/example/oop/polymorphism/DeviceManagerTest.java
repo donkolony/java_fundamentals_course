@@ -1,10 +1,13 @@
-package com.example.oop;
+package com.example.oop.polymorphism;
 
+import com.example.oop.inheritance.Device;
+import com.example.oop.inheritance.Smartphone;
+import com.example.oop.inheritance.Laptop;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-class PolymorphismTest {
+class DeviceManagerTest {
 
     @Test
     @DisplayName("Device array should hold different subclasses and call their specific toString methods")

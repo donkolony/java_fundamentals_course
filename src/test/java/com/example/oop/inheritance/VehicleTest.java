@@ -1,12 +1,13 @@
-package com.example.oop;
+package com.example.oop.inheritance;
 
+import com.example.oop.Car;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-class InheritanceTest {
+class VehicleTest {
 
     @Test
     @DisplayName("Car should inherit from Vehicle and call parent methods")

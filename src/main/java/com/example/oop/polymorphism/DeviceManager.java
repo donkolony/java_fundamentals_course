@@ -1,6 +1,9 @@
-package com.example.oop;
+package com.example.oop.polymorphism;
 
 
+import com.example.oop.inheritance.Device;
+import com.example.oop.inheritance.Laptop;
+import com.example.oop.inheritance.Smartphone;
 
 public class DeviceManager {
 

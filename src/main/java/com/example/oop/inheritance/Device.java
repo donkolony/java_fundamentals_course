@@ -9,7 +9,7 @@ Create a public getter for the model called getModel().
 Override the toString() method in Smartphone to return exactly: "[brand] [model]" (e.g., "Apple iPhone 15").
  */
 
-package com.example.oop;
+package com.example.oop.inheritance;
 
 public class Device {
     private String brand;

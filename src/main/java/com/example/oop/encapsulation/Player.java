@@ -8,7 +8,7 @@ Create a public setter for health called setHealth(int newHealth).
 Validation Rule: The health cannot drop below 0 and cannot exceed 100. If newHealth is greater than 100, set the health to 100. If it is less than 0, set it to 0. Otherwise, set it to the newHealth.
  */
 
-package com.example.oop;
+package com.example.oop.encapsulation;
 
 public class Player {
     // Write your fields, constructor, and methods here

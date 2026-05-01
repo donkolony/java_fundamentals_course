@@ -1,4 +1,4 @@
-package com.example.oop;
+package com.example.oop.inheritance;
 
 public class Smartphone extends Device {
     private String model;
